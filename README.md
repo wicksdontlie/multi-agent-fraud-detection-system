@@ -1,8 +1,9 @@
 # 🛡️ Multi-Agent Fraud Detection & AML Investigation System
+---
+<img width="1024" height="572" alt="multi_agent_image_github" src="https://github.com/user-attachments/assets/946736a1-800f-494a-8672-37f7674bef20" />
 
 An AI-powered Multi-Agent Fraud Detection platform that leverages Generative AI, Retrieval-Augmented Generation (RAG), Vector Search, and Autonomous Agents to analyze suspicious activities, assess risk levels, and generate fraud investigation reports.
 
----
 
 ## 🚀 Project Overview
 
